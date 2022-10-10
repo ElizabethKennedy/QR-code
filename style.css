@@ -51,6 +51,7 @@
     width: 100%;
   }
   
+  /* Footer Section */
   .attribution {
     position: absolute;
     bottom: 2px;
@@ -60,4 +61,3 @@
     text-align: center;
     color: hsl(228, 45%, 44%);
   }
-  
